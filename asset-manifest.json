@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SpotiFly/static/css/main.4acbaac9.css",
+    "main.js": "/SpotiFly/static/js/main.31b5c5d4.js",
+    "static/media/artist.jpg": "/SpotiFly/static/media/artist.1162a757da452033436f.jpg",
+    "static/media/background.jpg": "/SpotiFly/static/media/background.8b16878b58cd04fe945c.jpg",
+    "static/media/profile.jpg": "/SpotiFly/static/media/profile.b6c77859756c7c7e8a1f.jpg",
+    "static/media/track.png": "/SpotiFly/static/media/track.bddb5792891bf59741a8.png",
+    "index.html": "/SpotiFly/index.html",
+    "main.4acbaac9.css.map": "/SpotiFly/static/css/main.4acbaac9.css.map",
+    "main.31b5c5d4.js.map": "/SpotiFly/static/js/main.31b5c5d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4acbaac9.css",
+    "static/js/main.31b5c5d4.js"
+  ]
+}
